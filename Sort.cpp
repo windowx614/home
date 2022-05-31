@@ -20,7 +20,7 @@ void Sort::initSortArray() {
     //得到真正的随机数组
     std::random_shuffle(sortArray,sortArray+this->m_num);
 }
-
+//打印数组
 void Sort::printAll() {
     for (int i = 0; i < this->m_num; ++i) {
         cout << this->sortArray[i] << " ";
