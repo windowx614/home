@@ -1,0 +1,13 @@
+# ninja log v5
+1	1073	6751226124439426	CMakeFiles/C_C___DataStructure_Algorithmus.dir/main.cpp.obj	a315d237f447f7ea
+0	135	6755386830887938	build.ninja	1276826748d0a830
+1085	1194	6751226125660518	C_C___DataStructure_Algorithmus.exe	2a05f1f1971b77ff
+11	1824	6755386338104069	CMakeFiles/C_C___DataStructure_Algorithmus.dir/Sort.cpp.obj	4a5abc1ff4d332df
+23	1107	6755386330934526	CMakeFiles/C_C___DataStructure_Algorithmus.dir/RedBlackTree.cpp.obj	686d994f06be378b
+16	1108	6755386330944501	CMakeFiles/C_C___DataStructure_Algorithmus.dir/BinaryTree.cpp.obj	dbc4bdbb1852051c
+11	97	6755386876547179	CMakeFiles/C_C___DataStructure_Algorithmus.dir/BinaryTree.cpp.obj	dbc4bdbb1852051c
+32	109	6755386876690206	CMakeFiles/C_C___DataStructure_Algorithmus.dir/DynamicArray.cpp.obj	6f7b889764200fb9
+24	114	6755386876705844	CMakeFiles/C_C___DataStructure_Algorithmus.dir/RedBlackTree.cpp.obj	686d994f06be378b
+2	1144	6755386887042462	CMakeFiles/C_C___DataStructure_Algorithmus.dir/main.cpp.obj	a315d237f447f7ea
+17	1202	6755386887622857	CMakeFiles/C_C___DataStructure_Algorithmus.dir/Sort.cpp.obj	4a5abc1ff4d332df
+1202	1381	6755386889365048	C_C___DataStructure_Algorithmus.exe	b27f5ab81572f0d1
